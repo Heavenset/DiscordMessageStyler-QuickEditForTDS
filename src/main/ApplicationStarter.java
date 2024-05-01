@@ -12,7 +12,7 @@ public class ApplicationStarter {
 			case 1:
 				stylePicker.pickAStyle();
 				break;
-
+				
 			default:
 				System.out.println("Uh-oh, something went wrong! :(");
 		}

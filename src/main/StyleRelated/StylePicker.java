@@ -16,7 +16,7 @@ public class StylePicker {
 	
 	public void pickAStyle() {
 		if (!showingMessageForTheFirstTime) {
-			System.out.println("Here you will be choosing a style for a specific part of your message.");
+			System.out.println("Here you will be choosing a style for specific part of your message.");
 			showingMessageForTheFirstTime = false;
 		}
 		
